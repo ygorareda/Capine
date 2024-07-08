@@ -1,2 +1,2 @@
-# Capine
-Implementation of a interpreter 
+# Monkey
+Implementation of a interpreter Based on the book Writing An Interpreter In Go

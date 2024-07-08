@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"capine/src/token"
+	"monkey/src/token"
 	"testing"
 )
 
